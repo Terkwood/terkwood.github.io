@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="mobile-web-app-capable" content="yes" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
-  <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-  <!-- replace the below link with what aperture.p3k.io gives you after signing-in.
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        background-color: #101010;
+        color: #ffffff;
+      }
+      h1 {
+        color: #ffffff;
+      }
+      nav a {
+        color: #ffffff;
+      }
+    </style>
+    <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+    <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+    <!-- replace the below link with what aperture.p3k.io gives you after signing-in.
     (Details: https://indieweb.org/Microsub#Getting_Started)
     In summary:
     1. sign in to https://aperture.p3k.io/login with your domain
@@ -14,23 +26,27 @@
     3. copy that <link> tag that looks like:
       <link rel="microsub" href="https://aperture.p3k.io/microsub/000">
       after this HTML comment. -->
-  <title>Terkwood</title>
-</head>
-<body>
-  <h1>Terkwood</h1>
-  <div class="h-card">
-    <p>
-      Hi, you've reached the unofficial home page of <span class="p-name">Felix Terkhorn</span>. I am software producer living in the USA.
-    </p>
+    <title>Terkwood</title>
+  </head>
+  <body>
+    <h1>Terkwood</h1>
+    <div class="h-card">
+      <p>
+        Hi, you've reached the unofficial home page of
+        <span class="p-name">Felix Terkhorn</span>. I am software producer
+        living in the USA.
+      </p>
 
-    <p>
-      You can find me on other websites below:
-    </p>
+      <p>You can find me on other websites below:</p>
 
-    <ul>
-      <li><a class="u-url" href="https://terkwood.farm">terkwood.farm</a></li>
-      <li><a class="u-url" href="https://github.com/terkwood" rel="me">@Terkwood</a></li>
-    </ul>
-  </div>
-</body>
+      <ul>
+        <li><a class="u-url" href="https://terkwood.farm">terkwood.farm</a></li>
+        <li>
+          <a class="u-url" href="https://github.com/terkwood" rel="me"
+            >@Terkwood</a
+          >
+        </li>
+      </ul>
+    </div>
+  </body>
 </html>
