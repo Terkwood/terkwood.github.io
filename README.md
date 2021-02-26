@@ -1,6 +1,7 @@
-# blank-gh-site
+# terkwood.github.io
 
-This repository provides minimal HTML for starting a new web site!
+This is an experimental website created using the
+[lovely indieweb starter](https://github.com/indieweb/blank-gh-site) 😍
 
 ## How to play
 
