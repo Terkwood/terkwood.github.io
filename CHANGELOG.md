@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/Terkwood/terkwood.github.io/compare/v0.0.3...v0.0.4) (2021-02-26)
+
+
+### Features
+
+* add image ([b90930f](https://github.com/Terkwood/terkwood.github.io/commit/b90930fa66cf9844bc3f2d2581024f39aee98f9a))
+
 ### [0.0.3](https://github.com/Terkwood/terkwood.github.io/compare/v0.0.2...v0.0.3) (2021-02-26)
 
 
