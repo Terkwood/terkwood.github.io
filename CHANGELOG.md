@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/Terkwood/terkwood.github.io/compare/v0.0.2...v0.0.3) (2021-02-26)
+
+
+### Features
+
+* link rel to email ([90a56d8](https://github.com/Terkwood/terkwood.github.io/commit/90a56d887ceac4457f963cbe79380f51fe064e69))
+
 ### [0.0.2](https://github.com/Terkwood/terkwood.github.io/compare/v0.0.1...v0.0.2) (2021-02-26)
 
 
